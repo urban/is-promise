@@ -1,0 +1,8 @@
+/src
+/coverage
+/interfaces
+/.babelrc
+/.flowconfig
+/.gitignore
+/.istanbul.yml
+/.npmignore
